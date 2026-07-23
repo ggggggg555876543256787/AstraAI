@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+chats.json
+*.gguf
+.env
+venv/
